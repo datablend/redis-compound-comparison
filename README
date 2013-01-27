@@ -1,0 +1,3 @@
+Project showing the use of redis for executing checmical compound similarity algorithms.
+
+Redis 2.6 or higher is required to run this project.
